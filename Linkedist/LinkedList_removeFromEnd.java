@@ -1,4 +1,4 @@
-package Linkedist;
+package LinkedList;
 public class LinkedList_removeFromEnd {
    
         public static class Node{

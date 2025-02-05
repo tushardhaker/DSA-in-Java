@@ -1,5 +1,5 @@
 
-package Linkedist;
+package LinkedList;
 public class LinkedList_search{
     public static class Node {
         int data;

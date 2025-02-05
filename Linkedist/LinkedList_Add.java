@@ -1,4 +1,4 @@
-package Linkedist;
+package LinkedList;
 public class LinkedList_Add {
      public static class Node{
         int data;

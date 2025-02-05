@@ -1,4 +1,4 @@
-package Linkedist;
+package LinkedList;
 public class LinkedList_Reverse {
     public static class Node{
         int data;

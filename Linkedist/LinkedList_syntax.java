@@ -1,4 +1,4 @@
-package Linkedist;
+package LinkedList;
 import java.util.*;
 public class LinkedList_syntax {
     public static class Node {
